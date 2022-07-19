@@ -1,7 +1,6 @@
-# dio-desafio
-# dio-desafio
+# DIO Desafio
 
-#Lista Jogos de Tabuleiro: 
+ ## **Lista Jogos de Tabuleiro:**
 
  - Xadrez
  - Dama
